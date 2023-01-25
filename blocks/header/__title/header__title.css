@@ -1,0 +1,12 @@
+/* 2)Заголовок "Научиться учиться" */
+.header__title {
+  margin: 0;
+  width: 730px;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 600;
+  z-index: 2;
+  align-self: center;
+  position: absolute;
+  left: 64px;
+}
